@@ -1,0 +1,1 @@
+# extract-optcg-cards-bot
